@@ -1,1 +1,2 @@
 This is just a demo file for the first assignment.
+Additionaly it is a good first assignment for this course.
